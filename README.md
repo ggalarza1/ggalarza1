@@ -9,7 +9,7 @@
 <br />
 <p>
 
-- 💻 I’m currently learning **Web3, Chainanalysis, Blockchain, Python, Machine Learning and Cryptocurrency.**
+- 💻 I’m currently learning **Web3, Chainanalysis, Blockchain, Python, Machine Learning and Cryptography.**
 - 👩🏻‍💻 Let's connect. Follow me on X **[G_Galarza1](https://x.com/G_Galarza1)**
 - 🏃🏻‍♀️ Ask me about **marathons.**
 
